@@ -33,7 +33,7 @@ In particular, install the following two packages to ensure that Mamba will run 
 
 Before running the commands, please ensure that the dataset has been correctly placed. Taking the example of running the sample code on the LPBA40 dataset, ensure that the LPBA40 dataset is placed under `../Dataset/LPBA40_delineation/`. This will ensure that the code can run directly without encountering any path-related errors. (Here, `./` refers to the directory path where `Train_LPBA40.py` and `Infer_LPBA40.py` are located.)
 
-**The model weight file for the LPBA40 dataset is stored in the `./Checkpoint/LPBA40/V2/final.pth.tar` directory. **
+**The model weight file for the LPBA40 dataset is stored in the `./Checkpoint/LPBA40/V2/final.pth.tar` directory.**
 
 **The inference results are stored in the `./Result/LPBA40/V2/`  directory.**
 
