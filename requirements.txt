@@ -1,0 +1,13 @@
+causal_conv1d==1.1.3.post1
+einops==0.8.1
+mamba_ssm==1.1.1
+matplotlib==3.8.2
+ml_collections==0.1.1
+natsort==8.4.0
+numpy==2.2.4
+pymia==0.3.3
+SimpleITK==2.4.0
+SimpleITK==2.4.1
+timm==0.4.12
+torch==2.1.1
+tqdm==4.66.1
