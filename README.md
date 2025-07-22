@@ -4,11 +4,11 @@ A novel dual-stream framework, 3DReg-Mamba, based on the Mamba model, treats 3D 
 
 ## Overall Architecture
 
-![](.\img\image01.png)
+![](./img/image01.png)
 
 **Modules Architecture Diagram**
 
-![](.\img\image18.png)
+![](./img/image18.png)
 
 ## Usage
 
@@ -59,7 +59,7 @@ The settings for each parameter of the code are located in `./utils/config.py`
 
 **Visual results obtained by applying each alignment method for registration on the IXI dataset**
 
-![](.\img\image07.png)
+![](./img/image07.png)
 
 
 
@@ -67,7 +67,7 @@ The settings for each parameter of the code are located in `./utils/config.py`
 
 **Box plots show the Dice scores on 54 anatomical structures on the LPBA40 dataset using CycleMorph, VoxelMorph, TransMorph, TransMatch, OFG, CGNet, and our proposed method 3DRegMamba**
 
-![](.\img\image13.png)
+![](./img/image13.png)
 
 
 
@@ -77,7 +77,7 @@ The settings for each parameter of the code are located in `./utils/config.py`
 
 
 
-![](.\img\image08.png)
+![](./img/image08.png)
 
 
 
