@@ -86,15 +86,14 @@ The settings for each parameter of the code are located in `./utils/config.py`
 
 We compared 3DReg-Mamba with **eight** baseline registration methods . The links will take you to their official repositories.
 
-- SyN/ANTsPy([Official Website](https://github.com/ANTsX/ANTsPy))
-- NiftyReg([Official Website](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg))
-- VoxelMorph([Official Website](https://github.com/voxelmorph/voxelmorph))
-- CycleMorph([Official Website](https://github.com/boahK/MEDIA_CycleMorph))
-- TransMorph([Official Website](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/tree/main?tab=readme-ov-file))
-- TransMatch([Official Website](https://github.com/tzayuan/TransMatch_TMI))
-- OFG([Official Website](https://github.com/cilix-ai/on-the-fly-guidance))
-- CGNet([Official Website](https://github.com/scu1996cy/CGNet))
-
+- SyN/ANTsPy
+- NiftyReg
+- VoxelMorph
+- CycleMorph
+- TransMorph
+- TransMatch
+- OFG
+- CGNet
 We sincerely acknowledge this projects.
 
 
