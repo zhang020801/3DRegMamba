@@ -94,6 +94,7 @@ We compared 3DReg-Mamba with **eight** baseline registration methods . The links
 - TransMatch
 - OFG
 - CGNet
+
 We sincerely acknowledge this projects.
 
 
