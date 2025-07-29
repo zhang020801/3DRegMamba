@@ -27,7 +27,8 @@ In particular, install the following two packages to ensure that Mamba will run 
 - LPBA40 ([link](https://resource.loni.usc.edu/resources/atlases-downloads/))
 - IXI ([link](https://brain-development.org/ixi-dataset/))
 - OASIS ([link](https://sites.wustl.edu/oasisbrains/%5D))
-- AbdomenCT-CT ([link](https://cloud.imi.uni-luebeck.de/s/32WaSRaTnFk2JeT))
+- AbdomenCT-CT
+- SR-Reg
 
 ### Train and Infer Command
 
