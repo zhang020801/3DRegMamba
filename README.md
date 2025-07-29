@@ -24,9 +24,9 @@ In particular, install the following two packages to ensure that Mamba will run 
 
 ### Dataset
 
-- LPBA40 ([link](https://resource.loni.usc.edu/resources/atlases-downloads/))
-- IXI ([link](https://brain-development.org/ixi-dataset/))
-- OASIS ([link](https://sites.wustl.edu/oasisbrains/%5D))
+- LPBA40 
+- IXI 
+- OASIS 
 - AbdomenCT-CT
 - SR-Reg
 
