@@ -28,11 +28,6 @@ warnings.filterwarnings(
     message="Default grid_sample and affine_grid behavior has changed to align_corners=False since"
 )
 
-def count_parameters(model):
-    model_parameters = filter(lambda p: p.requires_grad, model.parameters())
-    params = sum([np.prod(p.size()) for p in model_parameters])
-    return params
-
 
 def make_dirs():
     if not os.path.exists(args.model_dir):
@@ -85,10 +80,6 @@ def train():
 
 
     net = RegMamba().to(device)
-    total_params = count_parameters(net)
-    total_MB = total_params * 4 / (1024 ** 2)  
-    print(f"Total parameters: {total_params:,}  ({total_MB:.2f} MB)", file=f)
-    print(f"Total parameters: {total_params:,}  ({total_MB:.2f} MB)")
 
     iterEpoch = 1
     contTrain = True
