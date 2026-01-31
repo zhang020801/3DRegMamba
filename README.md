@@ -38,6 +38,10 @@ Before running the commands, please ensure that the dataset has been correctly p
 
 **The inference results are stored in the `./Result/LPBA40/V2/`  directory.**
 
+### Weights Download
+
+[Google Drive](https://drive.google.com/drive/folders/1X9p3G_wtxRXV4DNVcq2OGqy3oMSH4qit?usp=sharing)
+
 For Linux:
 
 Train:
@@ -84,7 +88,7 @@ The settings for each parameter of the code are located in `./utils/config.py`
 
 ## Acknowledgments
 
-We compared 3DReg-Mamba with **eight** baseline registration methods . The links will take you to their official repositories.
+We compared 3DReg-Mamba with **eleven** baseline registration methods . The links will take you to their official repositories.
 
 - SyN/ANTsPy
 - NiftyReg
@@ -94,8 +98,14 @@ We compared 3DReg-Mamba with **eight** baseline registration methods . The links
 - TransMatch
 - OFG
 - CGNet
+- XMorpher
+- MambaMorph
+- VMambaMorph
 
 We sincerely acknowledge this projects.
+
+
+
 
 
 
